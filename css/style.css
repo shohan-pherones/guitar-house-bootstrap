@@ -7,3 +7,10 @@ body{
 .guitar-slider-color{
     background-color: #FEECE9;
 }
+.guitar-button{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-image: linear-gradient(to bottom, #ff5858 0%, #ff4b4b 100%);
+}
